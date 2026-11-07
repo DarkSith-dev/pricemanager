@@ -1,3 +1,4 @@
+<img width="1230" height="724" alt="image" src="https://github.com/user-attachments/assets/ec8914a3-091c-4456-b8f4-c2d8a892d13b" />
 # 3D Price Manager — precificador de impressão 3D (página única)
 HTML, CSS e JavaScript puro. Os dados ficam no LocalStorage do navegador.
 
